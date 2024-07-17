@@ -1,6 +1,10 @@
 lsi: false
 safe: true
 source: /
+title : The First Workshop on Evaluation Methodologies, Testbeds and Community for Information Access Research (EMTCIR 2024)
+author :
+  name : Makoto P. Kato
+  email : mpkato@acm.org 
 incremental: false
 highlighter: rouge
 gist:
