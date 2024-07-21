@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Top"
+title: ""
 permalink: /
 ---
 
