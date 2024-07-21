@@ -36,7 +36,7 @@ The review process is single-anonymized: authors should include author informati
 and reviewers are anonymized for authors.
 
 At least one author of each accepted paper must attend the workshop on-site and present their work. 
-Papers should be electronically submitted through EasyChair: (to be announced).
+Papers should be electronically submitted by the deadline through EasyChair: (URL to be announced).
 
 
 ## Type of Papers
