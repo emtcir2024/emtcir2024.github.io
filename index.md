@@ -5,11 +5,11 @@ permalink: /
 ---
 
 # Overview
-Evaluation campaigns, where researchers share important tasks, collaboratively develop test collections, and have discussion to advance technologies, are still important events to strategically address core challenges in information access research. 
-  The goal of this workshop is to discuss information access tasks that are worth addressing as a community, share new resources and evaluation methodologies,
-  and encourage researchers to ultimately propose new evaluation campaigns in NTCIR, TREC, CLEF, FIRE, etc.
-  The proposed workshop accepts four types of contributions, namely, 
-  emerging task, ongoing task, resource, and evaluation papers.
+
+* Date: December 12, 2024 (Half-day workshop)
+* Venue: SIGIR-AP 2024 (Waseda University, Tokyo, Japan)
+
+Evaluation campaigns, where researchers share important tasks, collaboratively develop test collections, and have discussion to advance technologies, are still important events to strategically address core challenges in information access research. The goal of this workshop is to discuss information access tasks that are worth addressing as a community, share new resources and evaluation methodologies, and encourage researchers to ultimately propose new evaluation campaigns in NTCIR, TREC, CLEF, FIRE, etc. The proposed workshop accepts four types of contributions, namely, emerging task, ongoing task, resource, and evaluation papers.
 
 
 # Important Dates
@@ -26,7 +26,7 @@ All the deadlines are the end of the day in Anywhere on Earth (AoE).
 
 ## Submissions
 
-Each paper must contains two to six pages (including figures, tables, proofs, appendixes, acknowledgments, and any content except references) in length, with unlimited pages for references. 
+Each paper must contain two to six pages (including figures, tables, proofs, appendixes, acknowledgments, and any content except references) in length, with unlimited pages for references. 
 The manuscripts must be written in English and in the PDF format.
 The paper format must follow the new ACM guidelines (e.g., using the ACM LaTeX template on Overleaf [here](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc)) with the "sigconf" option.
 The PDF files must have all non-standard fonts embedded. 
@@ -102,5 +102,5 @@ After the round-table discussion, each table is expected to have a short present
 - Makoto P. Kato (University of Tsukuba)
 - Noriko Kando (National Institute of Informatics)
 - Charles L. A. Clarke (University of Waterloo)
-- Yiqun Liu ({Tsinghua University)
+- Yiqun Liu (Tsinghua University)
 
