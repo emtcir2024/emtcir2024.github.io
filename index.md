@@ -15,7 +15,7 @@ Evaluation campaigns, where researchers share important tasks, collaboratively d
 # Important Dates
 - July 19, 2024: First call for papers
 - September 23, 2024: Second call for papers
-- ~October 3, 2024~ **October 7, 2024: Paper submission due (extended)**
+- ~~October 3, 2024~~ **October 7, 2024: Paper submission due (extended)**
 - October 18, 2024: Paper acceptance notification
 - November 1, 2024: Camera-ready submission due
 - December 12, 2024: EMTCIR 2024
