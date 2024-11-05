@@ -11,6 +11,77 @@ permalink: /
 
 Evaluation campaigns, where researchers share important tasks, collaboratively develop test collections, and have discussion to advance technologies, are still important events to strategically address core challenges in information access research. The goal of this workshop is to discuss information access tasks that are worth addressing as a community, share new resources and evaluation methodologies, and encourage researchers to ultimately propose new evaluation campaigns in NTCIR, TREC, CLEF, FIRE, etc. The proposed workshop accepts four types of contributions, namely, emerging task, ongoing task, resource, and evaluation papers.
 
+# Workshop Program (Dec 12 (Thu))
+
+<div class="ritz grid-container" dir="ltr">
+    <table class="waffle" cellspacing="0" cellpadding="0">
+        <tbody>
+            <tr style="height: 29px">
+                <td class="s2" dir="ltr">14:40</td>
+                <td class="s3" dir="ltr">-</td>
+                <td class="s4" dir="ltr">14:50</td>
+                <td class="s5" dir="ltr"><strong>Opening</strong></td>
+                <td class="s5" dir="ltr">Makoto P. Kato, Noriko Kando, Charles L. A. Clarke, and Yiqun Liu</td>
+            </tr>
+            <tr style="height: 29px">
+                <td class="s6" dir="ltr" rowspan="6">14:50</td>
+                <td class="s7" dir="ltr" rowspan="6">-</td>
+                <td class="s8" dir="ltr" rowspan="6">16:10</td>
+                <td class="s9" dir="ltr"><strong>Paper presentation (15min for each (+ 1min buffer time); 10~12min for presentation and 3~5min for Q&amp;A)</strong></td>
+                <td class="s10" dir="ltr">Chair: Makoto P. Kato</td>
+            </tr>
+            <tr style="height: 29px">
+                <td class="s11" dir="ltr">Evaluating System Responses Based On Overconfidence and Underconfidence</td>
+                <td class="s11" dir="ltr">Tetsuya Sakai</td>
+            </tr>
+            <tr style="height: 29px">
+                <td class="s11" dir="ltr">Can We Use Large Language Models to Fill Relevance Judgment Holes?</td>
+                <td class="s11" dir="ltr">Zahra Abbasiantaeb, Chuan Meng, Leif Azzopardi and Mohammad Aliannejadi</td>
+            </tr>
+            <tr style="height: 29px">
+                <td class="s11" dir="ltr">Searching Unseen Sources for Historical Information: Evaluation Design for the NTCIR-18 SUSHI Pilot Task</td>
+                <td class="s11" dir="ltr">Douglas Oard, Tokinori Suzuki, Emi Ishita and Noriko Kando</td>
+            </tr>
+            <tr style="height: 29px">
+                <td class="s11" dir="ltr">Building Test Collections for Japanese Dense Information Retrieval Technologies and Beyond</td>
+                <td class="s11" dir="ltr">Hideo Joho, Atsushi Keyaki, Yuuki Tachioka and Shuhei Yamamoto</td>
+            </tr>
+            <tr style="height: 29px">
+                <td class="s11" dir="ltr">Understanding Tables in Financial Documents: Shared Tasks for Table Retrieval and Table QA on Japanese Annual Security Reports</td>
+                <td class="s11" dir="ltr">Yasutomo Kimura, Eisaku Sato, Kazuma Kadowaki and Hokuto Ototake</td>
+            </tr>
+            <tr style="height: 29px">
+                <td class="s2" dir="ltr">16:10</td>
+                <td class="s3" dir="ltr">-</td>
+                <td class="s4" dir="ltr">16:30</td>
+                <td class="s5" dir="ltr"><strong>Coffee Break</strong></td>
+                <td class="s5"></td>
+            </tr>
+            <tr style="height: 29px">
+                <td class="s6" dir="ltr">16:30</td>
+                <td class="s7" dir="ltr">-</td>
+                <td class="s8" dir="ltr">17:20</td>
+                <td class="s11" dir="ltr"><strong>Group discussion - New evaluation campaigns -</strong></td>
+                <td class="s11" dir="ltr"></td>
+            </tr>
+            <tr style="height: 29px">
+                <td class="s6" dir="ltr">17:20</td>
+                <td class="s7" dir="ltr">-</td>
+                <td class="s8" dir="ltr">17:50</td>
+                <td class="s11" dir="ltr"><strong>New task proposals</strong></td>
+                <td class="s11" dir="ltr"></td>
+            </tr>
+            <tr style="height: 29px">
+                <td class="s6" dir="ltr">17:50</td>
+                <td class="s7" dir="ltr">-</td>
+                <td class="s8" dir="ltr">18:00</td>
+                <td class="s11" dir="ltr"><strong>Closing</strong></td>
+                <td class="s11" dir="ltr"></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
 
 # Important Dates
 - July 19, 2024: First call for papers
