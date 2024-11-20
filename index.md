@@ -32,23 +32,23 @@ Evaluation campaigns, where researchers share important tasks, collaboratively d
             </tr>
             <tr style="height: 29px">
                 <td class="s11" dir="ltr">Evaluating System Responses Based On Overconfidence and Underconfidence</td>
-                <td class="s11" dir="ltr">Tetsuya Sakai</td>
+                <td class="s11" dir="ltr">*Tetsuya Sakai</td>
             </tr>
             <tr style="height: 29px">
                 <td class="s11" dir="ltr">Can We Use Large Language Models to Fill Relevance Judgment Holes?</td>
-                <td class="s11" dir="ltr">Zahra Abbasiantaeb, Chuan Meng, Leif Azzopardi and Mohammad Aliannejadi</td>
+                <td class="s11" dir="ltr">*Zahra Abbasiantaeb, Chuan Meng, Leif Azzopardi and Mohammad Aliannejadi</td>
             </tr>
             <tr style="height: 29px">
                 <td class="s11" dir="ltr">Searching Unseen Sources for Historical Information: Evaluation Design for the NTCIR-18 SUSHI Pilot Task</td>
-                <td class="s11" dir="ltr">Douglas Oard, Tokinori Suzuki, Emi Ishita and Noriko Kando</td>
+                <td class="s11" dir="ltr">*Douglas Oard, Tokinori Suzuki, Emi Ishita and Noriko Kando</td>
             </tr>
             <tr style="height: 29px">
                 <td class="s11" dir="ltr">Building Test Collections for Japanese Dense Information Retrieval Technologies and Beyond</td>
-                <td class="s11" dir="ltr">Hideo Joho, Atsushi Keyaki, Yuuki Tachioka and Shuhei Yamamoto</td>
+                <td class="s11" dir="ltr">Hideo Joho, Atsushi Keyaki, Yuuki Tachioka and *Shuhei Yamamoto</td>
             </tr>
             <tr style="height: 29px">
                 <td class="s11" dir="ltr">Understanding Tables in Financial Documents: Shared Tasks for Table Retrieval and Table QA on Japanese Annual Security Reports</td>
-                <td class="s11" dir="ltr">Yasutomo Kimura, Eisaku Sato, Kazuma Kadowaki and Hokuto Ototake</td>
+                <td class="s11" dir="ltr">*Yasutomo Kimura, Eisaku Sato, Kazuma Kadowaki and Hokuto Ototake</td>
             </tr>
             <tr style="height: 29px">
                 <td class="s2" dir="ltr">16:10</td>
@@ -81,6 +81,8 @@ Evaluation campaigns, where researchers share important tasks, collaboratively d
         </tbody>
     </table>
 </div>
+
+* "*" indicates the speaker and all presentations will be given in-person.
 
 
 # Important Dates
