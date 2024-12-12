@@ -6,7 +6,7 @@ permalink: /
 
 # Proceedings
 
-http://ceur-ws.org/Vol-3854
+[http://ceur-ws.org/Vol-3854](http://ceur-ws.org/Vol-3854)
 
 # Overview
 
