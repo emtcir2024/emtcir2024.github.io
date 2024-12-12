@@ -4,6 +4,10 @@ title: ""
 permalink: /
 ---
 
+# Proceedings
+
+http://ceur-ws.org/Vol-3854
+
 # Overview
 
 * Date: December 12, 2024 (Half-day workshop)
